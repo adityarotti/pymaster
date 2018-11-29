@@ -1,4 +1,4 @@
-Dependencies for compiling: Lapack, f2py (usually comes with numpy)
+Dependencies for compiling: Lapack, f2py (usually comes with numpy), wigner routines (included)
 Dependencies for running the python notebook: jupyter notebook, healpy
 
 Follow these steps:
