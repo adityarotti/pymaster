@@ -1,0 +1,9 @@
+Dependencies for compiling: Lapack, f2py (usually comes with numpy)
+Dependencies for running the python notebook: jupyter notebook, healpy
+
+Follow these steps:
+ - cd modules
+ - Make appropriate edits to the Makefile. (set fortran compiler)
+ - Run the make file, if successful, it should create a file named master.so
+ - On successfully generating master.so run: cd ../
+ - You should be able to run the python notebook: Running_master.ipynb.
