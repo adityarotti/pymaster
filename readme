@@ -9,6 +9,6 @@ Follow these steps:
  - You should be able to run the python notebook: Running_master.ipynb.
 
 Note: 
-1. Open the PDF file Running_master.pdf to check how the python notebook is supposed to look after a successfully running it. 
+1. Open the PDF file Running_master.pdf to check how the python notebook is supposed to look after successfully running it. 
 2. All the necessary data file (mask, power spectrum) are included with the package.
 3. Right now these codes work with temperature like maps. The fortran program master.f90 does have a subroutine to work with the maps returned by the masked QU2EB pipeline, however it is not integrated with the implementation of the master routines made available here.
